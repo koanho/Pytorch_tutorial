@@ -1,8 +1,8 @@
 # Pytorch_tutorial
 This is a tutorial code for Pytorchc Licensed by
 
-- COSE461 - KOREA UNIV BYUNGJUN LEE (originally from CS224n Standford Univ PyTorch Tutorial)
-- CS 285 @ UC Berkeley.
+- COSE461 NLP - KOREA UNIV BYUNGJUN LEE (originally from CS224n Standford Univ PyTorch Tutorial)
+- CS 285 Deep RL @ UC Berkeley.
 - FREECodecamp.or PyTorch tutorial (01~08)
 
 I wrote some useful tips and experiments 
